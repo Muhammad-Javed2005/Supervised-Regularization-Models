@@ -1,4 +1,4 @@
-# Supervised Regularization Models (Study Material)
+# Supervised Regularization Models 
 
 ![Type](https://img.shields.io/badge/Type-Study%20Material-blue)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Repository Overview
+##  Repository Overview
 
 **This repository is developed by Muhammad Javed for learning and practice purposes.**
 
@@ -20,7 +20,7 @@ This repository is intended as **study material**, not a deployment-ready projec
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand overfitting and underfitting in supervised learning
 - Learn why regularization is required in regression models
@@ -30,26 +30,26 @@ This repository is intended as **study material**, not a deployment-ready projec
 
 ---
 
-## 🧠 Regularization Techniques Covered
+##  Regularization Techniques Covered
 
-### 🔹 Ridge Regression (L2)
+###  Ridge Regression (L2)
 - Penalizes the sum of squared coefficients
 - Shrinks coefficients but does not make them zero
 - Effective when all features contribute to prediction
 
-### 🔹 Lasso Regression (L1)
+###  Lasso Regression (L1)
 - Penalizes the sum of absolute coefficients
 - Performs feature selection by setting coefficients to zero
 - Useful for sparse models
 
-### 🔹 ElasticNet
+###  ElasticNet
 - Combination of L1 and L2 regularization
 - Balances feature selection and coefficient shrinkage
 - Effective when features are highly correlated
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.11
 - **Libraries Used:**
@@ -61,7 +61,7 @@ This repository is intended as **study material**, not a deployment-ready projec
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Supervised-Regularization-Models/
@@ -74,7 +74,7 @@ Supervised-Regularization-Models/
 
 ---
 
-## 📘 Notebook Details
+##  Notebook Details
 
 ### Lasso Regularization
 
@@ -86,18 +86,9 @@ Supervised-Regularization-Models/
 **Purpose:**  
 To understand how L1 regularization improves model robustness and performs feature selection.
 
----
 
-## ❓ Why This Is Study Material (Not a Project)
 
-- Focuses on individual concepts rather than a complete application
-- No end-to-end pipeline or deployment
-- Designed for academic learning and revision
-- Ideal for beginners and intermediate learners
-
----
-
-## 🚀 How to Use This Repository
+##  How to Use This Repository
 
 1. Clone the repository
 ```bash
@@ -113,7 +104,7 @@ jupyter notebook
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Add Ridge Regression notebook
 - Add ElasticNet implementation
@@ -123,13 +114,14 @@ jupyter notebook
 
 ---
 
-## 👤 Author
+##  Author
 
-**Muhammad Javed** — Computer Engineering Student | Machine Learning Enthusiast
+**Muhammad Javed** —
+Computer Engineering Student | Machine Learning Enthusiast
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **GitHub:** https://github.com/Muhammad-Javed2005
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-javed-24b262369/
